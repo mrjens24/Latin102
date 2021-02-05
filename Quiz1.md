@@ -2,11 +2,11 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam f. accusative, singular
-2. in coniugium
-3. animo
-4. uirgine
-5. parentes
-6. ad uxorem
+2. in coniugium n. accusative, singular
+3. animo m. dative/ablative, singular
+4. virgine .f abltive, singular
+5. parentes m. accusative, plural
+6. ad uxorem f. accusative, singular
 
 
 Part 2: recognizing verbs
@@ -14,13 +14,13 @@ For each of the following verbs,
 identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
-1. petivisset
-2. necauit
-3. necari
-4. rogaretur
-5. coepit
-6. interfecisset
-7. misit
+1. petivisset, pluperfect subjunctive active third plural, petisset
+2. necavit, perfect indicative active third singular, necavint
+3. necari, present infinitive passive (neither singular nor plural, has no person)
+4. rogaretur, imperfect subjunctive passive third singular, rogarentur
+5. coepit, perfect indicative active third singular, coepint
+6. interfecisset, pluperfect subjunctive active third singular, interfecissent
+7. misit, perfect indicative active third singular, misint
 
 
 Part 3: Latin composition
