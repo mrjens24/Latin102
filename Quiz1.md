@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
@@ -5,7 +7,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 2. in coniugium n. accusative, singular
 3. animo m. dative/ablative, singular
 4. virgine .f abltive, singular
-5. parentes m. accusative, plural
+5. parentes m. accusative, plural ❌
 6. ad uxorem f. accusative, singular
 
 
@@ -15,12 +17,12 @@ identify the tense, voice, mood, person, and number.
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
 1. petivisset, pluperfect subjunctive active third plural, petivissent
-2. necavit, perfect indicative active third singular, necavint
+2. necavit, perfect indicative active third singular, necavint ❌
 3. necari, present infinitive passive (neither singular nor plural, has no person)
 4. rogaretur, imperfect subjunctive passive third singular, rogarentur
-5. coepit, perfect indicative active third singular, coepint
+5. coepit, perfect indicative active third singular, coepint ❌ 
 6. interfecisset, pluperfect subjunctive active third singular, interfecissent
-7. misit, perfect indicative active third singular, misint
+7. misit, perfect indicative active third singular, misint ❌
 
 
 Part 3: Latin composition
@@ -28,9 +30,9 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 
 1. Centaurs are being killed by Hercules. (Use the present tense) interficiuntur
 2. Centaurs were being killed by Hercules. (Use the perfect tense) interfecti sunt
-3. Centaurs were killed by Hercules. (Use the perfect tense) interfecerunt
-4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) interfecit
+3. Centaurs were killed by Hercules. (Use the perfect tense) interfecerunt ❌
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) interfecit ❌
 5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. vidit
 6. Hercules led Deianira in marriage (i.e., he married her). duxit
-7. Hercules repeatedly asked Eurytus for permission to marry Iole. rogavit
+7. Hercules repeatedly asked Eurytus for permission to marry Iole. rogavit ❌
 
