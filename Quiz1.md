@@ -4,7 +4,7 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam f. accusative, singular
-2. in coniugium n. accusative, singular
+2. in coniugium n. accusative, singular. into marriage 
 3. animo m. dative/ablative, singular
 4. virgine .f abltive, singular
 5. parentes m. accusative, plural ❌
