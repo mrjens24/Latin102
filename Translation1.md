@@ -50,12 +50,12 @@ Hercules *interuenit* et centaurum *interfecit*,
 
 B. Grammatical questions
 
-Dexamenum, Dexameni m. Dexamenum is masculine singular accusative
-Deianira, Deianirae f. Deianiram is feminine singular accusative
-third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause
-third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause
-Third person singular perfect passive indicative, it is a deponent verb 
-Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase expressing time.
+1. Dexamenum, Dexameni m. Dexamenum is masculine singular accusative
+1. Deianira, Deianirae f. Deianiram is feminine singular accusative
+1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause
+1. third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause
+1. Third person singular perfect passive indicative, it is a deponent verb 
+1. Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase expressing time.
 
 
 C. Translation
