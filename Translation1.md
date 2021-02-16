@@ -1,3 +1,7 @@
+**Needs revisions**
+**Please include questions as well as your answers in submission.**
+
+
 Translation 1: wives of Hercules
 
 Concepts to review
@@ -22,9 +26,9 @@ Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram d
 
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
-A. Grammatical analysis
+A. Grammatical analysis 
 
-Hercules cum in hospitium ad Dexamenum regem *uenisset* 
+Hercules cum in hospitium ad Dexamenum regem *uenisset*  ❌
 >eiusque filiam Deianiram *deuirginasset*,
 
 *volebat* eam uxorem *ducere*. 
@@ -39,25 +43,27 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 >se *daturum*.
 
->Tempore certo, 
+>Tempore certo, ❌
 
 *venit* centaurus cum fratribus ad nuptias. 
 
-Hercules *interuenit* et centaurum *interfecit*, 
+Hercules *interuenit* et centaurum *interfecit*,  ❌
 
 >Deianiram *abduxit*.
 
 
 B. Grammatical questions
 
-1. Dexamenum, Dexameni m. Dexamenum is masculine singular accusative
+1. Dexamenum, Dexameni m. Dexamenum is masculine singular accusative ❌
 1. Deianira, Deianirae f. Deianiram is feminine singular accusative
-1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause
-1. third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause
-1. Third person singular perfect passive indicative, it is a deponent verb 
-1. Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase expressing time.
+1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
+1. third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before 🤔 *or same time as* the subordinate clause 👍
+1. Third person singular perfect passive indicative, it is a deponent verb ❌
+1. Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase❌ expressing time.
 
 
 C. Translation
 
-Hercules had come into hospitality with King Dexamenum after he had deflowered his daughter Deianira, he was wanting to lead her into marriage as a wife. When Hercules was absent, the centaur Eurytion demanded Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. On the designated day, the centaur came with his brothers to the wedding. Hercules came between them and killed the centaur, he led Deianira away.
+Hercules had come into hospitality with King Dexamenum after he had deflowered his daughter Deianira, he was wanting to lead her into marriage as a wife.  ❌ *Think about what you know about the time relations of the dependent and indepenent clauses in this sentence, and how you could express that in English.*
+
+When Hercules was absent, the centaur Eurytion demanded Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. On the designated day, the centaur came with his brothers to the wedding. Hercules came between them and killed the centaur, he led Deianira away.
