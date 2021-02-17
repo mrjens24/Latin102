@@ -28,7 +28,8 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 
 A. Grammatical analysis 
 
-Hercules cum in hospitium ad Dexamenum regem *uenisset*  ❌
+Hercules 
+>cum in hospitium ad Dexamenum regem *uenisset*  ❌
 >eiusque filiam Deianiram *deuirginasset*,
 
 *volebat* eam uxorem *ducere*. 
@@ -54,7 +55,7 @@ Hercules *interuenit* et centaurum *interfecit*,  ❌
 
 B. Grammatical questions
 
-1. Dexamenum, Dexameni m. Dexamenum is masculine singular accusative ❌
+1. Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
 1. Deianira, Deianirae f. Deianiram is feminine singular accusative
 1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
 1. third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before 🤔 *or same time as* the subordinate clause 👍
