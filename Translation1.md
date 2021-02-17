@@ -30,6 +30,7 @@ A. Grammatical analysis
 
 Hercules 
 >cum in hospitium ad Dexamenum regem *uenisset*  ❌
+
 >eiusque filiam Deianiram *deuirginasset*,
 
 *volebat* eam uxorem *ducere*. 
