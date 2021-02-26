@@ -94,11 +94,29 @@ Latin relative clauses
 For each sentence in the previous section:
 
 translate the relative pronoun into Latin
+
 > quibus
+> 
 > cui
 > 
+> 3
+> 
+> 4
+> 
+> 5
+> 
+> 6
+> 
+> 7
+> 
+> 8
+> 
+> cui
+> 
+> 10
 
 identify the antecedent of the pronoun, and its gender and number
+
 > the brothers, masculine plural
 > 
 > Eurytion, masculine singular
@@ -111,6 +129,8 @@ identify the antecedent of the pronoun, and its gender and number
 > 
 > Busiris, masculine singular
 > 
+> eagle, masculine singular
+> 
 > Lycus, masculine singular
 > 
 > Hercules, masculine singular
@@ -118,6 +138,23 @@ identify the antecedent of the pronoun, and its gender and number
 > Hercules, masculine singular
 
 identify the case of the Latin pronoun, and explain why it is in that case
-> ablative because...
+
+> ablative because they are the object of the preposition cum
 > 
-> dative
+> dative because Eurytion is an indirect object
+> 
+> 3
+> 
+> 4
+> 
+> ablative because it is the instrument of means
+> 
+> 6
+> 
+> 7
+> 
+> 8
+> 
+> dative because Hercules is an indirect object
+> 
+> 10
