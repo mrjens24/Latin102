@@ -46,6 +46,7 @@ Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 but not amo, habeo, capio or duco
 
 
+
 English relative clauses
 
 
@@ -77,6 +78,7 @@ Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was kille
 Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+
 
 
 Latin relative clauses
