@@ -1,3 +1,6 @@
+**Needs revisions**
+**Very solid first draft!**
+
 Background story
 (Based on chapter 35 of Hyginus)
 
@@ -41,8 +44,8 @@ Vocabulary:
 
 Composition:
 
- Cum Hercules Oechaliam pervenerit, is Iolen uxorem ducere petivit.
- Cum eius patrem noluissem, is cepit Oechaliam. 
- Hercules dixit eam interfecturus esse eius parentes.
- Iole passus sum eius parentes interfecisse.
- Quia is omnes illos interfectus sum, is misit Iolen Deianirae.
+ Cum Hercules Oechaliam pervenerit❌, is Iolen uxorem ducere petivit.
+ Cum eius patrem noluissem❌, is cepit Oechaliam. 
+ Hercules dixit eam❌ interfecturus❌ esse eius parentes.
+ Iole passus❌ sum❌ eius parentes interfecisse❌.
+ Quia🤔 is omnes illos interfectus sum❌, is misit Iolen Deianirae❌.
