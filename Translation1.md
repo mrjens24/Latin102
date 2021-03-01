@@ -49,7 +49,9 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 *venit* centaurus cum fratribus ad nuptias. 
 
-Hercules *interuenit* et centaurum *interfecit*,  ❌
+Hercules *interuenit* 
+
+>et centaurum *interfecit*,  ❌
 
 >Deianiram *abduxit*.
 
