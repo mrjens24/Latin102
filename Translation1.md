@@ -45,15 +45,13 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 >se *daturum*.
 
->Tempore certo, ❌
-
-*venit* centaurus cum fratribus ad nuptias. 
+Tempore certo, ❌ *venit* centaurus cum fratribus ad nuptias. 
 
 Hercules *interuenit* 
 
->et centaurum *interfecit*,  ❌
+et centaurum *interfecit*,  ❌
 
->Deianiram *abduxit*.
+Deianiram *abduxit*.
 
 
 B. Grammatical questions
@@ -81,5 +79,7 @@ B. Grammatical questions
 C. Translation
 
 Hercules had come into hospitality with King Dexamenum after he had deflowered his daughter Deianira, he was wanting to lead her into marriage as a wife.  ❌ *Think about what you know about the time relations of the dependent and indepenent clauses in this sentence, and how you could express that in English.*
+
+Hercules, when he came into hospitality with King Dexamenum and had deflowered his daughter Deianira, was wanting to lead her into marriage as a wife
 
 When Hercules was absent, the centaur Eurytion demanded Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. On the designated day, the centaur came with his brothers to the wedding. Hercules came between them and killed the centaur, he led Deianira away.
