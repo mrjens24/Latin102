@@ -21,25 +21,75 @@ perfect infinitive passive
 
 third plural pluperfect subjunctive active
 
+dō, dāre, dedī, datum - to give
+
+dant
+
+dent
+
+darent
+
+dare
+
+dederint
+
+dantum esse
+
+dedisse
+
+dedissent
+
+facio, facis, facere, factum- to make, do
+
+faciunt
+
+faciant
+
+faciebant
+
+facere
+
+facerent
+
+fecerunt
+
+factus esse
+
+facti essent
+
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
 
 third plural present indicative passive
 
+pollicentur
+
 third plural present subjunctive passive
+
+polliceantur
 
 third plural imperfect indicative passive
 
+pollicebantur
+
 present infinitive passive
+
+polliceri
 
 third plural imperfect subjunctive passive
 
+pollicerentur
+
 third plural perfect indicative passive
+
+polliciti sunt
 
 perfect active passive
 
 third plural pluperfect subjunctive passive
+
+polliciti essent
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
@@ -99,21 +149,21 @@ translate the relative pronoun into Latin
 > 
 > cui
 > 
-> 3
+> quibus
 > 
-> 4
+> quem
 > 
-> 5
-> 
-> 6
-> 
-> 7
-> 
-> 8
+> quo
 > 
 > cui
 > 
-> 10
+> cuiius
+> 
+> quem
+> 
+> cui
+> 
+> quem
 
 identify the antecedent of the pronoun, and its gender and number
 
@@ -143,18 +193,18 @@ identify the case of the Latin pronoun, and explain why it is in that case
 > 
 > dative because Eurytion is an indirect object
 > 
-> 3
+> ablative because it is the object 
 > 
-> 4
+> accusative because it is the direct object
 > 
 > ablative because it is the instrument of means
 > 
-> 6
+> dative because it is an indirect object
 > 
-> 7
+> genitive because it shows possession
 > 
-> 8
+> accusative because it is the direct object
 > 
 > dative because Hercules is an indirect object
 > 
-> 10
+> accusative because it is the direct object
