@@ -71,10 +71,10 @@ B. Grammatical questions
 > third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause 👍
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-> Third person singular perfect passive indicative, it is a deponent verb ❌
+> Third person singular perfect passive indicative, you would look under polliceor ❌
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
-> Third/second declension ablative singular. They are in this case because they are being used to❌ express time.
+> Third/second declension ablative singular. They are in this case because they are being used to❌ express time when something happened.
  
 
 
