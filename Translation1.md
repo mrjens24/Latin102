@@ -56,6 +56,13 @@ Hercules *interuenit* et centaurum *interfecit*,  ❌
 
 B. Grammatical questions
 
+1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
+1. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+1. Identify the form abesset, and explain why it is this tense and mood.
+1. Identify the form uenisset, and explain why it is this tense and mood.
+1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+
 1. Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
 1. Deianira, Deianirae f. Deianiram is feminine singular accusative
 1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
