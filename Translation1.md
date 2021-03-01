@@ -57,20 +57,23 @@ Hercules *interuenit* et centaurum *interfecit*,  ❌
 B. Grammatical questions
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-1. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
-1. Identify the form abesset, and explain why it is this tense and mood.
-1. Identify the form uenisset, and explain why it is this tense and mood.
-1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+> Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
 
+2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+> Deianira, Deianirae f. Deianiram is feminine singular accusative
 
+3. Identify the form abesset, and explain why it is this tense and mood.
+> third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
 
-1. Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
-1. Deianira, Deianirae f. Deianiram is feminine singular accusative
-1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
-1. third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before 🤔 *or same time as* the subordinate clause 👍
-1. Third person singular perfect passive indicative, it is a deponent verb ❌
-1. Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase❌ expressing time.
+4. Identify the form uenisset, and explain why it is this tense and mood.
+> third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before 🤔 *or same time as* the subordinate clause 👍
+
+5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+> Third person singular perfect passive indicative, it is a deponent verb ❌
+
+6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+> Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase❌ expressing time.
+ 
 
 
 C. Translation
