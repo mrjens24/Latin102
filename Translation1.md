@@ -63,6 +63,8 @@ B. Grammatical questions
 1. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 1. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
+
+
 1. Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
 1. Deianira, Deianirae f. Deianiram is feminine singular accusative
 1. third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
