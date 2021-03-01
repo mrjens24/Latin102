@@ -74,7 +74,7 @@ B. Grammatical questions
 > Third person singular perfect passive indicative, it is a deponent verb ❌
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
-> Third/second declension ablative singular. They are in this case because they are being used in a prepositional phrase❌ expressing time.
+> Third/second declension ablative singular. They are in this case because they are being used to❌ express time.
  
 
 
