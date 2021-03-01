@@ -68,7 +68,7 @@ B. Grammatical questions
 > third-person singular imperfect active subjunctive, this is because it emphasizes the circumstances and occurs after the subordinate clause 
 
 4. Identify the form uenisset, and explain why it is this tense and mood.
-> third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before 🤔 *or same time as* the subordinate clause 👍
+> third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause 👍
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 > Third person singular perfect passive indicative, it is a deponent verb ❌
