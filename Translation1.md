@@ -1,5 +1,5 @@
-**Needs revisions**
-**Please include questions as well as your answers in submission.**
+**Full credit**
+
 
 
 Translation 1: wives of Hercules
@@ -29,7 +29,7 @@ Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et 
 A. Grammatical analysis 
 
 Hercules 
->cum in hospitium ad Dexamenum regem *uenisset*  ❌
+>cum in hospitium ad Dexamenum regem *uenisset* 
 
 >eiusque filiam Deianiram *deuirginasset*,
 
@@ -45,11 +45,11 @@ centaurus Eurytion *petit* Deianiram uxorem.
 
 >se *daturum*.
 
-Tempore certo, ❌ *venit* centaurus cum fratribus ad nuptias. 
+Tempore certo,  *venit* centaurus cum fratribus ad nuptias. 
 
 Hercules *interuenit* 
 
-et centaurum *interfecit*,  ❌
+et centaurum *interfecit*,  
 
 Deianiram *abduxit*.
 
@@ -57,7 +57,7 @@ Deianiram *abduxit*.
 B. Grammatical questions
 
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-> Dexamenus, Dexameni m. Dexamenum is masculine singular accusative ❌
+> Dexamenus, Dexameni m. Dexamenum is masculine singular accusative 
 
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 > Deianira, Deianirae f. Deianiram is feminine singular accusative
@@ -69,17 +69,16 @@ B. Grammatical questions
 > third-person singular pluperfect active subjunctive, this is because it emphasizes the circumstances and happens before the subordinate clause 👍
 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-> Third person singular perfect passive indicative, you would look under polliceor ❌
+> Third person singular perfect passive indicative, you would look under polliceor 
 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
-> Third/second declension ablative singular. They are in this case because they are being used to❌ express time when something happened.
+> Third/second declension ablative singular. They are in this case because they are being used to express time when something happened.
  
 
 
 C. Translation
 
-Hercules had come into hospitality with King Dexamenum after he had deflowered his daughter Deianira, he was wanting to lead her into marriage as a wife.  ❌ *Think about what you know about the time relations of the dependent and indepenent clauses in this sentence, and how you could express that in English.*
 
-Hercules, when he came into hospitality with King Dexamenum and had deflowered his daughter Deianira, was wanting to lead her into marriage as a wife
+Hercules, when he came into hospitality with King Dexamenum and had deflowered his daughter Deianira, was wanting to lead her into marriage as a wife.
 
 When Hercules was absent, the centaur Eurytion demanded Deianira as a wife. Since her father feared the centaur, he promised that he would give his daughter in marriage. On the designated day, the centaur came with his brothers to the wedding. Hercules came between them and killed the centaur, he led Deianira away.
