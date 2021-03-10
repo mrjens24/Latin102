@@ -47,5 +47,5 @@ Composition:
  Cum Hercules Oechaliam pervenerit❌, is Iolen uxorem ducere petivit.
  Cum eius patrem noluissem❌, is cepit Oechaliam. 
  Hercules dixit eam❌ interfecturus❌ esse eius parentes.
- Iole passus❌ sum❌ eius parentes interfecisse❌.
+ Iole passus❌ sum❌ eius parentes interfecit❌.
  Quia🤔 is omnes illos interfectus sum❌, is misit Iolen Deianirae❌.
