@@ -59,4 +59,4 @@ Composition:
  
  Iole patiebatur parentes suos passos esse interfectos esse❌.
  
- Quia🤔 is omnes illos interfectus sum❌, is misit Iolen Deianirae❌.
+ Quia🤔 is omnes illos interfecit❌, is Iolen ad Deianirae misit❌.
