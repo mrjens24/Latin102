@@ -55,7 +55,7 @@ Composition:
  
  Cum eius patrem nōllet❌, is cepit Oechaliam. 
  
- Hercules dixit eam❌ interfecturus❌ esse eius parentes.
+ Hercules dixit sē❌ interfecturum❌ esse eius parentes.
  
  Iole passus❌ sum❌ eius parentes interfecit❌.
  
