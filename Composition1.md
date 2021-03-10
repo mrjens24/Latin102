@@ -51,9 +51,9 @@ Vocabulary:
 
 Composition:
 
- Cum Hercules Oechaliam pervenerit❌, is Iolen uxorem ducere petivit.
+ Cum Hercules Oechaliam venísset❌, is Iolen uxorem ducere petivit.
  
- Cum eius patrem noluissem❌, is cepit Oechaliam. 
+ Cum eius patrem nōllet❌, is cepit Oechaliam. 
  
  Hercules dixit eam❌ interfecturus❌ esse eius parentes.
  
