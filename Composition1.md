@@ -51,12 +51,12 @@ Vocabulary:
 
 Composition:
 
- Cum Hercules Oechaliam venísset❌, is Iolen uxorem ducere petivit.
+ Cum Hercules Oechaliam venísset❌, Iolen uxorem ducere petivit.
  
- Cum eius patrem nōllet❌, is cepit Oechaliam. 
+ Quia eius patrem nōllebat❌, cepit Oechaliam. 
  
  Hercules dixit sē parentes eius interfecturum esse. ❌ ❌  
  
  Iole patiebatur parentes suos passos esse interfectos esse❌.
  
- Quia🤔 is omnes illos interfecit❌, is Iolen ad Deianirae misit❌.
+ Cum Hercules eos omnes interfēcísset❌, Iolen ad Deianirae misit❌.
