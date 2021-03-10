@@ -53,7 +53,7 @@ Composition:
 
  Cum Hercules Oechaliam venísset❌, Iolen uxorem ducere petivit.
  
- Quia eius patrem nōllebat❌, cepit Oechaliam. 
+ Quia pater eius nōllebat❌, cepit Oechaliam. 
  
  Hercules dixit sē parentes eius interfecturum esse. ❌ ❌  
  
