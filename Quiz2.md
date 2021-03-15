@@ -85,7 +85,9 @@ third plural perfect indicative passive
 
 polliciti sunt
 
-perfect active passive
+perfect active passive (infinitive?)
+
+polliceri
 
 third plural pluperfect subjunctive passive
 
@@ -95,8 +97,40 @@ Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
 but not amo, habeo, capio or duco
 
-> confused as to what this is asking for
+> immolo, immolare, immolavi, immolatus: to sacrifice
 
+
+third plural present indicative passive
+
+immolantur
+
+third plural present subjunctive passive
+
+immolentur
+
+third plural imperfect indicative passive
+
+immolabant
+
+present infinitive passive
+
+immolari
+
+third plural imperfect subjunctive passive
+
+immolarentur
+
+third plural perfect indicative passive
+
+immolati sunt
+
+perfect active passive (infinitive?)
+
+immolatum esse
+
+third plural pluperfect subjunctive passive
+
+immolati essent
 
 
 English relative clauses
