@@ -185,13 +185,13 @@ For each sentence in the previous section:
 
 translate the relative pronoun into Latin
 
-> quibus
+> cum quibus
 > 
 > cui
 > 
-> quibus
+> x
 > 
-> quem
+> quibus
 > 
 > quo
 > 
@@ -233,17 +233,17 @@ identify the case of the Latin pronoun, and explain why it is in that case
 > 
 > dative because Eurytion is an indirect object
 > 
-> ablative because it is the object 
+> genitive because they are possesed by Eurytion
 > 
-> accusative because it is the direct object
+> ablative because it is the direct object of killed
 > 
 > ablative because it is the instrument of means
 > 
-> dative because it is an indirect object
+> nominative because it is the subject
 > 
 > genitive because it shows possession
 > 
-> accusative because it is the direct object
+> accusative because it is the direct object 
 > 
 > dative because Hercules is an indirect object
 > 
