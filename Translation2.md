@@ -1,48 +1,53 @@
 Translation 2: Nessus and Deianira
 
 
-Concepts to review
 
-relative clauses
+Concepts to review:
 
-participial expressions
+-relative clauses
 
-use of ablative to express means or instrument
+-participial expressions
 
-Vocabulary and notes
+-use of ablative to express means or instrument
+
+
+
+Vocabulary and notes:
 
 expressing possession with the dative
 
 
-auxilium, auxilii (n): “aid, help”
+-auxilium, auxilii (n): “aid, help”
 
-configo, configĕre, confixi, confixus: “pierce, transfix”
+-configo, configĕre, confixi, confixus: “pierce, transfix”
 
-fel, fellis (n): “bile or poisonous liquid”
+-fel, fellis (n): “bile or poisonous liquid”
 
-fides, fidei (f): “faith; trustworthiness; protection or help”
+-fides, fidei (f): “faith; trustworthiness; protection or help”
 
-flumen, fluminis (n): “river”
+-flumen, fluminis (n): “river”
 
-huc, adverb: “to this place” (Victorian English: “hither” 😀)
+-huc, adverb: “to this place” (Victorian English: “hither” 😀)
 
-imploro, implorare, imploravi, imploratus: “beg with tears, implore”
+-imploro, implorare, imploravi, imploratus: “beg with tears, implore”
 
-philtrum, i (n): “love potion”
+-philtrum, i (n): “love potion”
 
-rogo, rogare, rogavi, rogatus: “to ask for”; can take two direct objects: the person you’re asking, and the thing you’re asking for
+-rogo, rogare, rogavi, rogatus: “to ask for”; can take two direct objects: the person you’re asking, and the thing you’re asking for
 
-sanguis, sanguinis (m): “blood”
+-sanguis, sanguinis (m): “blood”
 
-sagitta, sagittae (f): “arrow”
+-sagitta, sagittae (f): “arrow”
 
-tingo, tingĕre, tinxi, tinctus: “soak in”
+-tingo, tingĕre, tinxi, tinctus: “soak in”
 
-transeo < trans + eo : “to cross”
+-transeo < trans + eo : “to cross”
 
-violo, violare, violavi, violatus: “injure, do violence to, rape”
+-violo, violare, violavi, violatus: “injure, do violence to, rape”
 
-vis, vis (f): “strenght, potency, power”
+-vis, vis (f): “strenght, potency, power”
+
+
 
 
 Passage to analyze
@@ -100,9 +105,13 @@ Deianirae dedit
 et id philtrum esse dixit.
 
 
+
+
 A. Grammatical analysis
 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
+
+
 
 
 B. Grammatical questions
@@ -124,6 +133,8 @@ Identify the form of tinctas.
 Identify the form of exceptum.
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin.
+
+
 
 
 C. Translation
