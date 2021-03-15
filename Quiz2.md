@@ -3,57 +3,60 @@ Quiz 2
 
 Verb synopses
 
-Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
+Check one verb of the first or second conjugation *other than amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
 third plural present indicative active
 
+dant (they give)
+
+faciunt (they do)
+
+
 third plural present subjunctive active
-
-third plural imperfect indicative active
-
-present infinitive active
-
-third plural imperfect subjunctive active
-
-third plural perfect indicative active
-
-perfect infinitive passive
-
-third plural pluperfect subjunctive active
-
-dō, dāre, dedī, datum - to give
-
-dant
 
 dent
 
-darent
+faciant
+
+
+third plural imperfect indicative active
+
+darent (they were giving)
+
+faciebant (they were doing)
+
+
+present infinitive active
 
 dare
 
-dederint
-
-dantum esse
-
-dedisse
-
-dedissent
-
-facio, facis, facere, factum- to make, do
-
-faciunt
-
-faciant
-
-faciebant
-
 facere
+
+
+third plural imperfect subjunctive active
+
+dederint
 
 facerent
 
-fecerunt
+
+third plural perfect indicative active
+
+dantum esse (they gave)
+
+fecerunt (they did)
+
+
+perfect infinitive passive
+
+dedisse
 
 factus esse
+
+
+third plural pluperfect subjunctive active
+
+dedissent
 
 facti essent
 
@@ -63,7 +66,7 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 third plural present indicative passive
 
-pollicentur
+pollicentur (they are promised)
 
 third plural present subjunctive passive
 
@@ -71,7 +74,7 @@ polliceantur
 
 third plural imperfect indicative passive
 
-pollicebantur
+pollicebantur (they were being promised)
 
 present infinitive passive
 
@@ -83,7 +86,7 @@ pollicerentur
 
 third plural perfect indicative passive
 
-polliciti sunt
+polliciti sunt (they were promised)
 
 perfect active passive (infinitive?)
 
@@ -92,6 +95,7 @@ polliceri
 third plural pluperfect subjunctive passive
 
 polliciti essent
+
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
