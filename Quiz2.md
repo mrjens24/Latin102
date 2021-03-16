@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Quiz 2
 
 
@@ -21,7 +23,7 @@ faciant
 
 third plural imperfect indicative active
 
-darent (they were giving)
+darent (they were giving)❌
 
 faciebant (they were doing)
 
@@ -35,21 +37,21 @@ facere
 
 third plural imperfect subjunctive active
 
-dederint
+dederint❌
 
 facerent
 
 
 third plural perfect indicative active
 
-dantum esse (they gave)
+dantum esse (they gave)❌
 
 fecerunt (they did)
 
 
 perfect infinitive passive
 
-dedisse
+dedisse❌
 
 factus esse
 
@@ -58,7 +60,7 @@ third plural pluperfect subjunctive active
 
 dedissent
 
-facti essent
+facti essent❌
 
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -97,7 +99,7 @@ third plural pluperfect subjunctive passive
 polliciti essent
 
 
-Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
+Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio 👏 **Nice!**
 
 but not amo, habeo, capio or duco
 
@@ -185,25 +187,16 @@ For each sentence in the previous section:
 
 translate the relative pronoun into Latin
 
-> cum quibus
-> 
-> cui
-> 
-> x
-> 
-> quibus
-> 
-> quo
-> 
-> cui
-> 
-> cuiius
-> 
-> quem
-> 
-> cui
-> 
-> quem
+1. cum quibus
+2. cui
+3. x ❌
+4. quibus❌
+5. quo
+6. cui❌
+7. cuius ❌
+8. quem❌
+9. cui
+10. quem
 
 identify the antecedent of the pronoun, and its gender and number
 
@@ -219,7 +212,7 @@ identify the antecedent of the pronoun, and its gender and number
 > 
 > Busiris, masculine singular
 > 
-> eagle, masculine singular
+> eagle, masculine❌ singular
 > 
 > Lycus, masculine singular
 > 
@@ -229,22 +222,13 @@ identify the antecedent of the pronoun, and its gender and number
 
 identify the case of the Latin pronoun, and explain why it is in that case
 
-> ablative because they are the object of the preposition cum
-> 
-> dative because Eurytion is an indirect object
-> 
-> genitive because they are possesed by Eurytion
-> 
-> ablative because it is the direct object of killed
-> 
-> ablative because it is the instrument of means
-> 
-> nominative because it is the subject
-> 
-> genitive because it shows possession
-> 
-> accusative because it is the direct object 
-> 
-> dative because Hercules is an indirect object
-> 
-> accusative because it is the direct object
+1. ablative because they are the object of the preposition cum
+2. dative because Eurytion is an indirect object
+3. genitive because they are possesed by Eurytion
+4. ablative❌ because it is the direct object of killed
+5. ablative because it is the instrument of means
+6. nominative because it is the subject
+7. genitive because it shows possession❌
+8. accusative because it is the direct object 
+9. dative because Hercules is an indirect object
+10. accusative because it is the direct object
