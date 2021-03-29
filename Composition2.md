@@ -52,9 +52,12 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition:
 
-Deianira Oenei filia Herculis uxor cum vidit Iolen virginem captivam eximiae formae esse adductam verita est, ne se coniugio privaret. 
+Cum Deianira, filia Oenei et uxor Herculi, vidisset Iolen adductam esse, ne privaretur Herculem coupait machinerai. 
+
 Itaque memor Nessi praecepti vestem tinctam centauri sanguine, Herculi qui ferret, nomine Licham famulum misit.
+
 Quod Deianira ut vidit, aliter esse ac Nessus dixerat intellexit, et qui revocaret eum, cui vestem dederat, misit. 
+
 Quam Hercules iam induerat statimque flagrare coepit; qui cum se in flumen coniecisset, ut ardorem extingueret, maior flamma exibat; demere autem cum vellet, viscera sequebantur. 
-Tunc dicitur Philoctetes Poeantis filius pyram in monte Oetaeo construxisse Herculi, eumque ascendisse immortalitatem. 
-Deianira autem ob factum Herculis ipsa se interfecit.
+
+Hercules eumque ascendisse immortalitatem et Deianira autem ob factum Herculis ipsa se interfecit.
