@@ -1,3 +1,5 @@
+**Needs minor revisions**
+
 Translation 2: Nessus and Deianira
 
 
@@ -117,11 +119,11 @@ B. Grammatical questions
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-> River, neuter singular. cui is dative because the river is an indirect object.
+> River, neuter singular. cui is dative because the river is an indirect object.❌
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
 
-> transire is perfect infinitive. i chose the clause becuase i believe that it is a verb of the main, independent, clause.
+> transire is perfect❌ infinitive. i chose the clause becuase i believe that it is a verb of the main, independent, clause.
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
@@ -157,4 +159,4 @@ William Faulkner’s novel As I lay dying takes its title from an English transl
 C. Translation
 
 
-Deinanira, the wife of Hercules, was not able to cross the great river, which was named Evenus, and she asked the centaur Nessus, who was the son of Ixionos and Nubis, for help. He wanted to rape Dinanira, when she was being carried across the river itself. Here Hercules, when he had interrupted and when Deinanira begged his protection, pierced Nessus with arrows. As he is dying, when he knew that the arrows held a great strength because they were soaked in the poison of Hydra Lernaea, he gave his own blood to Deinanira and said that it was a love potion.
+Deinanira, the wife of Hercules, was not able to cross the great river, which was named Evenus, and she asked the centaur Nessus, who was the son of Ixion and Nubis, for help. He wanted to rape Dinanira, when she was being carried across the river itself. Here Hercules, when he had interrupted and when Deinanira begged his protection, pierced Nessus with arrows. As he is dying, when he knew that the arrows held a great strength because they were soaked in the poison of Hydra Lernaea, he gave his own blood to Deinanira and said that it was a love potion.
