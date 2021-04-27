@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Quiz 3
 
 
@@ -32,16 +34,16 @@ uno die
 
 
 totum stercus
-
+❌
 
 ceruum ferocem
-
+❌
 
 tantam vim
-
+❌
 
 sagittas suas
-
+❌
 
 cornibus aureis
 >Cornu, cornus n.
@@ -52,9 +54,9 @@ carne humana
 >Humanus, humana, humanum
 
 draconem immanem
+❌
 
-
-mala aurea
+mala aure❌
 
 
 Dictionary skills, 2: verb forms

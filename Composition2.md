@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Composition 2: the death of Hercules
 
 
@@ -50,9 +52,9 @@ statim (adv.) “immediately”
 flammo, flammare, flammavi, flammatus “flame, burn”
 
 
-Composition:
+Composition: **This is identical to Hyginus chapter 36, but not exactly what the instructions asked you to compose.**
 
-Cum Deianira, filia Oenei et uxor Herculi, vidisset Iolen adductam esse, ne privaretur Herculem coupait machinerai. 
+Cum Deianira, filia Oenei et uxor Herculi, vidisset Iolen adductam esse, ne privaretur Herculem coupait❌ machinerai. 
 
 Itaque memor Nessi praecepti vestem tinctam centauri sanguine, Herculi qui ferret, nomine Licham famulum misit.
 
