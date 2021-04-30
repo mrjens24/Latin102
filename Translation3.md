@@ -63,15 +63,15 @@ Identify the form of the adjective maiorem (gender, case, number, degree).
 Explain the construction of the verbal unit flumine admisso.
 
 What are the gender, number, case, and antecedent of qui?
->
+> masculine, plural, masculine, equos (horses)
 
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-
+> sum, esse, fui, futurus
 
 C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
-
+> One choice of syntax I found complemented the menaing of the passage was the use of ablative agent in the phrase, *Iove adiutore*. This gave further context as to the help provided. Another interesting diction choice was the use of the word *admisso,* as it changes the setting of the sentence and gives context.
 
 D. Translation
 
