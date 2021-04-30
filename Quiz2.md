@@ -23,7 +23,7 @@ faciant
 
 third plural imperfect indicative active
 
-darent (they were giving)❌
+dabant (they were giving)❌
 
 faciebant (they were doing)
 
@@ -37,21 +37,21 @@ facere
 
 third plural imperfect subjunctive active
 
-dederint❌
+darent ❌
 
 facerent
 
 
 third plural perfect indicative active
 
-dantum esse (they gave)❌
+Dederunt (they gave)❌
 
 fecerunt (they did)
 
 
 perfect infinitive passive
 
-dedisse❌
+Datus Esse❌
 
 factus esse
 
@@ -60,7 +60,7 @@ third plural pluperfect subjunctive active
 
 dedissent
 
-facti essent❌
+Fecissent ❌
 
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -189,10 +189,10 @@ translate the relative pronoun into Latin
 
 1. cum quibus
 2. cui
-3. x ❌
-4. quibus❌
+3. cuius ❌
+4. quo❌
 5. quo
-6. cui❌
+6. quis❌
 7. cuius ❌
 8. quem❌
 9. cui
@@ -212,7 +212,7 @@ identify the antecedent of the pronoun, and its gender and number
 > 
 > Busiris, masculine singular
 > 
-> eagle, masculine❌ singular
+> eagle, feminine❌ singular
 > 
 > Lycus, masculine singular
 > 
@@ -225,10 +225,10 @@ identify the case of the Latin pronoun, and explain why it is in that case
 1. ablative because they are the object of the preposition cum
 2. dative because Eurytion is an indirect object
 3. genitive because they are possesed by Eurytion
-4. ablative❌ because it is the direct object of killed
+4. ablative because it is the direct object of killed
 5. ablative because it is the instrument of means
 6. nominative because it is the subject
-7. genitive because it shows possession❌
+7. ablative because it is the agent❌
 8. accusative because it is the direct object 
 9. dative because Hercules is an indirect object
 10. accusative because it is the direct object
