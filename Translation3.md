@@ -30,7 +30,14 @@ Hyginus, chapter 30, sections 7-9.
 
 
 
-7 Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
+7 Augeae regis stercus bobile 
+>uno die 
+purgavit, 
+>>maiorem partem 
+>Iove adiutore; 
+>>flumine admisso 
+>totum stercus 
+abluit.
 
 8 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 
@@ -45,14 +52,18 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 B. Grammatical questions
 
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
+ > Iove is ablative in the ablative absolute construction.
 
 What case is stercus, and why is it in that case?
+> stercus is in the nominative form because it is the subject
 
 Identify the form of the adjective maiorem (gender, case, number, degree).
+> Masculine accusative singular comparative
 
 Explain the construction of the verbal unit flumine admisso.
 
 What are the gender, number, case, and antecedent of qui?
+>
 
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
 
@@ -60,3 +71,9 @@ What Latin verb form has to be understood in the clause that runs from equorum t
 C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
+
+D. Translation
+
+
+He cleaned in one day the dung from the stall of the king of Elis, Jove was helping him for the most part. The entire dung was washed away in the river, which was a crime.
