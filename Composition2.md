@@ -53,13 +53,13 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 
 Composition: **This is identical to Hyginus chapter 36, but not exactly what the instructions asked you to compose.**
+ 
+Cum Deianira, filia Oenei et uxor Herculi, vidisset Iolen adductam esse, ne privaretur Herculem insidias machinerai. 
 
-Cum Deianira, filia Oenei et uxor Herculi, vidisset Iolen adductam esse, ne privaretur Herculem coupait❌ machinerai. 
+Quae Nessi vestem centauri sanguine tinctam, philtrum cogitaverit, Herculi qui tradere famulum misit.
 
-Itaque memor Nessi praecepti vestem tinctam centauri sanguine, Herculi qui ferret, nomine Licham famulum misit.
+Hercules vestem induit, hoc flammavisset statim. 
 
-Quod Deianira ut vidit, aliter esse ac Nessus dixerat intellexit, et qui revocaret eum, cui vestem dederat, misit. 
-
-Quam Hercules iam induerat statimque flagrare coepit; qui cum se in flumen coniecisset, ut ardorem extingueret, maior flamma exibat; demere autem cum vellet, viscera sequebantur. 
+Famulus, ab Deianirae miserit vestem repedare, ab Herculi jaciendus in mare
 
 Hercules eumque ascendisse immortalitatem et Deianira autem ob factum Herculis ipsa se interfecit.
