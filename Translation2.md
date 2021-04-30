@@ -123,7 +123,7 @@ Identify the antecedent of cui, and its gender and number. Then explain what cas
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
 
-> transire is perfect❌ infinitive. i chose the clause becuase i believe that it is a verb of the main, independent, clause.
+> transire is present❌ infinitive. i chose the clause becuase i believe that it is a verb of the main, independent, clause.
 
 sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
