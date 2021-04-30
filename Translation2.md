@@ -119,7 +119,7 @@ B. Grammatical questions
 
 Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
 
-> River, neuter singular. cui is dative because the river is an indirect object.❌
+> River, neuter singular. cui is dative because the river is the recipient of the verb erat.❌
 
 Identify the form of transire. Explain why you placed it in the clause you chose.
 
