@@ -62,4 +62,4 @@ Hercules vestem induit, hoc flammavisset statim.
 
 Famulus, ab Deianirae miserit vestem repedare, ab Herculi jaciendus in mare
 
-Hercules eumque ascendisse immortalitatem et Deianira autem ob factum Herculis ipsa se interfecit.
+Hercules immortalitatem ascendisse dicitur et Deianira autem ob factum Herculis ipsa se interfecit.
