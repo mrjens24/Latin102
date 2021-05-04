@@ -56,10 +56,10 @@ Composition: **This is identical to Hyginus chapter 36, but not exactly what the
  
 Cum Deianira, filia Oenei et uxor Herculi, Iolen adductam esse vidisset, ne coniugio privaretur Herculem insidias machinerai. 
 
-Quae Nessi vestem centauri sanguine tinctam, philtrum cogitaverit, Herculi qui tradere famulum misit.
+Deianira famulum tradere misit Herculi vestem sanguine Nessi tinctam centauri, quem putavit philtrum esse.
 
-Hercules vestem induit, hoc flammavisset statim. 
+Hercules vestem induit, statim flammavit. 
 
-Famulus, ab Deianirae miserit vestem repedare, ab Herculi jaciendus in mare
-
-Hercules immortalitatem ascendisse dicitur et Deianira autem ob factum Herculis ipsa se interfecit.
+Hercules famulum, quem Deianira miserat, ut vestem revocaret, in mare iecit.
+        
+Dicitur Herculem immortalitatem ascendit, et Deianira ob factum ipsa se interfecit.
