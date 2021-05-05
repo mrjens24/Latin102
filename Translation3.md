@@ -83,7 +83,6 @@ Choose two choices of syntax, word order, or diction that Hyginus makes in this 
 D. Translation
 
 
-He cleaned in one day the dung from the stall of the king of Elis, Jove was helping him for the most part. The entire dung was washed away in the river, which was a crime.
-
+He cleaned the dung from stall of King Augeas in one day, the greater part while Juppiter was helping; Because he let the river in, he washed all the dung.
 
 Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus. 
