@@ -84,3 +84,6 @@ D. Translation
 
 
 He cleaned in one day the dung from the stall of the king of Elis, Jove was helping him for the most part. The entire dung was washed away in the river, which was a crime.
+
+
+Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus. 
