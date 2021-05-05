@@ -85,6 +85,6 @@ D. Translation
 
 He cleaned the dung from stall of King Augeas in one day, the greater part while Juppiter was helping; Because he let the river in, he washed all the dung.
 
-He brought back alive the 
+The bull with which Pasiphae lay he brought alive from the island of Crete to Mycenae.
 
 He killed Diomedes, King of Thrace, and his four horses who used to feed on human flesh with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus. 
