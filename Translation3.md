@@ -85,4 +85,6 @@ D. Translation
 
 He cleaned the dung from stall of King Augeas in one day, the greater part while Juppiter was helping; Because he let the river in, he washed all the dung.
 
-Diomedes, King of Thrace, and his four horses which fed on human flesh he killed along with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus. 
+He brought back alive the 
+
+He killed Diomedes, King of Thrace, and his four horses who used to feed on human flesh with the slave Abderus. The horses' names were Podargus, Lampon, Xanthus, and Dinus. 
