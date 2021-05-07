@@ -1,5 +1,5 @@
-**Needs revisions**
-**Very solid first draft!**
+
+**Full credit**
 
 Background story
 (Based on chapter 35 of Hyginus)
@@ -57,6 +57,6 @@ Composition:
  
  Hercules dixit sē parentes eius interfecturum esse. ❌ ❌  
  
- Iole patiebatur parentes suos passos esse interfectos esse❌.
+ Iole patiebatur parentes  esse interfectos esse❌.
  
  Cum Hercules eos omnes interfēcísset❌, Iolen ad Deianirae misit❌.
