@@ -62,4 +62,4 @@ Hercules vestem induit, statim flammavit.
 
 Hercules famulum, quem Deianira miserat, ut vestem revocaret, in mare iecit.
         
-Dicitur Herculem immortalitatem ascendit, et Deianira ob factum ipsa se interfecit.
+Dicitur Herculem ad immortalitatem ascendere, et Deianira ob factum ipsa se interfecit.
