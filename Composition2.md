@@ -54,7 +54,7 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Composition: **This is identical to Hyginus chapter 36, but not exactly what the instructions asked you to compose.**
  
-Cum Deianira, filia Oenei et uxor Herculi, Iolen adductam esse vidisset, ne coniugio privaretur Herculem insidias machinerai. 
+Cum Deianira, filia Oenei et uxor Herculi, Iolen adductam esse vidisset, coepit machinari ne coniugio privaretur. 
 
 Deianira famulum tradere misit Herculi vestem sanguine Nessi tinctam centauri, quem putavit philtrum esse.
 
