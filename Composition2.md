@@ -56,7 +56,7 @@ Composition: **This is identical to Hyginus chapter 36, but not exactly what the
  
 Cum Deianira, filia Oenei et uxor Herculi, Iolen adductam esse vidisset, coepit machinari ne coniugio privaretur. 
 
-Deianira famulum tradere misit Herculi vestem sanguine Nessi tinctam centauri, quem putavit philtrum esse.
+Deianira famulum misit ut  Herculi vestem tradaret sanguine Nessi tinctam centauri, quem putavit philtrum esse.
 
 Hercules vestem induit, statim flammavit. 
 
