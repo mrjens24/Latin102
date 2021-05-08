@@ -1,3 +1,5 @@
+**Needs revisions.**
+
 Translation 3: Three labors of Hercules
 
 
@@ -33,22 +35,27 @@ Hyginus, chapter 30, sections 7-9.
 7 Augeae regis stercus bobile uno die *purgavit*, 
 
 maiorem partem 
+
 >Iove adiutore; 
 
 >flumine admisso 
+
 totum stercus *abluit*.
 
 8 taurum 
+
 >cum quo Pasiphae *concubuit* 
 
->ex Creta insula Mycenis vivum *adduxit*.
+>ex Creta insula Mycenis vivum *adduxit*.❌ **This is the main clause.**
 
 9 Diomedem Thraciae regem et equos quattuor eius,
+
+
 > qui carne humana *vescebantur*, 
 
-> cum Abdero famulo *interfecit*; 
+> cum Abdero famulo *interfecit*;  ❌ **Main clause.**
 
-> equorum autem nomina Podargus Lampon Xanthus Dinus.
+> equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **Main clause.**
 
 
 A. Grammatical analysis
@@ -62,14 +69,15 @@ In the phrase, Iove adiutore, what case is Iove? What kind of construction is th
  > Iove is ablative in the ablative absolute construction.
 
 What case is stercus, and why is it in that case?
-> stercus is in the nominative form because it is the subject
+> stercus is in the nominative form because it is the subject ❌
 
 Identify the form of the adjective maiorem (gender, case, number, degree).
-> Masculine accusative singular comparative
+> Masculine accusative singular comparative ❌ **What noun does it agree with?**
 
 Explain the construction of the verbal unit flumine admisso.
 
 What are the gender, number, case, and antecedent of qui?
+
 > masculine, plural, masculine, equos (horses)
 
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
