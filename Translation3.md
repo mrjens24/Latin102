@@ -71,7 +71,7 @@ In the phrase, Iove adiutore, what case is Iove? What kind of construction is th
  > Iove is ablative in the ablative absolute construction.
 
 What case is stercus, and why is it in that case?
-> stercus is in the nominative form because it is the subject ❌
+> stercus is in the ablative form because it is the ablative of agent ❌
 
 Identify the form of the adjective maiorem (gender, case, number, degree).
 > Masculine accusative singular comparative ❌ **What noun does it agree with?**
