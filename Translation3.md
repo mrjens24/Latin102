@@ -46,16 +46,18 @@ totum stercus *abluit*.
 
 >cum quo Pasiphae *concubuit* 
 
->ex Creta insula Mycenis vivum *adduxit*.❌ **This is the main clause.**
+ex Creta insula Mycenis vivum *adduxit*.❌ **This is the main clause.**
+
 
 9 Diomedem Thraciae regem et equos quattuor eius,
 
 
 > qui carne humana *vescebantur*, 
 
-> cum Abdero famulo *interfecit*;  ❌ **Main clause.**
+ cum Abdero famulo *interfecit*;  ❌ **Main clause.**
+ 
 
-> equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **Main clause.**
+ equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **Main clause.**
 
 
 A. Grammatical analysis
